@@ -37,6 +37,7 @@ First JavaScript project, I learned the following:
   used it for Click event
 
 - classList.add() and classList.remove
+  
   for add():
 
 ```js
